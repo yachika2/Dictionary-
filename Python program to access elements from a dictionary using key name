@@ -1,0 +1,7 @@
+Record = {'id' : 101, 'name' : 'Amit Kumar', 'age' : 21} 
+
+
+print("Dictionary \'Record\' elements...")
+print(Record['id'])
+print(Record['name'])
+print(Record['age'])
