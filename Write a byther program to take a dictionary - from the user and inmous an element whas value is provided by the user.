@@ -1,0 +1,12 @@
+d= { } 
+vatus = eval (input (Enter reale to by removed").
+    for i in range(n): 
+    key = eval (input ())
+    val=eval(input ()
+d[key] = value
+For i in d:
+ If d(i)==value:
+  del d(i)
+   Print(d)
+else:
+   Print("invalid")
