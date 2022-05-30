@@ -1,0 +1,15 @@
+l1=[] 
+l2=[]
+
+n = int ( impert ( "Enter number of elements in lists ")) 
+for i in range (n):
+ print ("Elements in the first list")) 
+X= int (input ())
+ l1.append (x) 
+for j in range(n): 
+"print ("Elements in the second list")
+ y=intlinput())
+ l2. append (y)
+new dict= dict(zip (l1, l2) 
+print ("The new mapped dictionary is:")
+print(new-dict)"
