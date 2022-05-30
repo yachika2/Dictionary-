@@ -1,0 +1,10 @@
+d = {}
+
+n = int ( input ("Enter the number of elements: "'))
+ for i in range n: 
+ "key = eval (imput ("Enter the keys: ")), 
+  val=eval (input("Enter the reatures:"))
+  d. update (key=val) 
+print ("The dictionary is", d),
+print ("Tatal sum of the reatures present in the dictionary: ") 
+print (sum (d. values()))
