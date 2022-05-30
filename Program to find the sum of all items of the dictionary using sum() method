@@ -1,0 +1,6 @@
+langRating = {"python" : 24, "C++" : 22, "javaScript" : 25, "Java" : 20, "R" : 21 }
+
+sumVal = sum(langRating.values())
+
+print("The dictionary is : ", langRating)
+print("Sum of all items of the dictionary  :", sumVal)
